@@ -2,4 +2,4 @@
 
 #### Stack
 - C#, Unity
-- JavaScript, TypeScript, React
+- JavaScript, React
