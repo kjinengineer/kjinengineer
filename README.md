@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+I like to make some libraries for web, especially javascript and typescript.
+<br />
+<br />
 
 #### Stack
-- C#, Unity
-- JavaScript, React
+- JavaScript, TypeScript
+- React, Express
