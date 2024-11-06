@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like to make open sources for web, especially javascript and typescript.
+I like to make Dev Tools.
 <br />
 <br />
 
