@@ -1,5 +1,6 @@
 ## Hi there 👋
-I like to make Dev Tools.
+- Junior Web Developer
+- I like to make Dev Tools.
 <br />
 <br />
 
