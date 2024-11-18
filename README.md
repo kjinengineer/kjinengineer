@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Junior Web Developer
+- I'm a Junior Web Developer
 - I like to make Dev Tools.
 
 ## Stack
