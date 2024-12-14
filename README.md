@@ -3,4 +3,4 @@
 
 ## Stack
 - JavaScript, TypeScript
-- React, Node.js, Express
+- React, Next.js, Node.js, Express
