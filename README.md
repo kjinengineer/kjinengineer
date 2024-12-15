@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm a Web Developer, making Open Source.
+- I'm a Web Developer, making open source.
 
 ## Stack
 - JavaScript, TypeScript
